@@ -1,7 +1,7 @@
 # 5D Interpolator
 
-This project implements a full-stack 5D interpolation system consisting of a
-FastAPI backend and a Next.js frontend. Users can upload a 5D dataset, train a
+This project implements a full-stack web-app of a 5D interpolation system consisting of a
+FastAPI backend and a Next.js frontend, deploying using Docker. Users can upload a 5D dataset, train a
 configurable neural network model, and perform real-time predictions through
 a web interface.
 
