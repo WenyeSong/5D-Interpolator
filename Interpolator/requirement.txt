@@ -1,0 +1,8 @@
+numpy==1.26.*
+torch
+fastapi
+uvicorn
+scikit-learn
+pytest
+httpx
+python-multipart
